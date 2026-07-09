@@ -1,0 +1,15 @@
+# Dossiers de cache Python
+__pycache__/
+*.pyc
+
+# Dossiers d'environnement virtuel (si tu en as un)
+venv/
+env/
+
+# Fichiers de configuration de Cursor / VS Code
+.vscode/
+.cursor/
+
+# Fichiers temporaires système
+.DS_Store
+Thumbs.db
